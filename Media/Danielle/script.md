@@ -1,7 +1,7 @@
 # Equifax Data Breach (2017) - Presentation Script
 
 # Slide 1 - What Happened / Breakdown (approx 0-15 seconds)
-- In 2017, Equifax experienced a major data breach when hackers exploited an unpatched vulnerability in Apache Struts, which is a Java web application framework. Although a security patch was available, Equifax had failed to implement it.
+- In 2017, Equifax, one of America's three major credit bureaus, experienced a data breach. Hackers exploited an Apache Struts vulnerability between May and July, despite a security patch being available in March.
 
 # Slide 2 - Impact & Lesson Learned (approx 15-30 seconds) 
-- The breach affected approximately 147 million individuals, and resulted in a settlement of at least 575 million dollars. This incident demonstrates why timely security updates and effective vulnerability management are essential for protecting sensitive information.
+- The breach affected approximately 147 million individuals. In July 2019, Equifax agreed to a settlement of at least 575 million dollars. This incident emphasizes the importance of timely software updates, and effective vulnerability management.
