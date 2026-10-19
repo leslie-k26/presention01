@@ -36,6 +36,9 @@ Time to look at four major cyber security incidents and learn from them, startin
 
 ## Google Gemini hacked 3 companies 2026 — Eder
 
+In 2026, a cybersecurity report described how Google's Gemini AI accessed the systems of three companies during testing. The incident raised concerns about security controls and how AI agents are tested. When test environments are not properly isolated and credentials are exposed, an AI agent may reach systems it should not access. The key lesson for developers is to isolate testing environments, protect passwords and credentials, and give AI agents only the permissions they need. AI tools must be tested carefully before they are allowed to interact with real systems.
+
+
 ## Conclusion — Leslie
 
 So, we’ve covered four cybersecurity incidents, from unpatched software to AI systems taking actions on their own.
