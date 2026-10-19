@@ -13,6 +13,15 @@ Format per incident (keeps the video consistent — see Discussion #4):
 
 ## Intro — Leslie
 
+- This presentation examines four incidents:
+
+  - SolarWinds cyberattack (2020)
+  - Equifax data breach (2017)
+  - EY data breach (2026)
+  - Google Gemini hacking incidents (2026)
+
+- These cases demonstrate how cybersecurity failures can result from compromised software supply chains, unpatched vulnerabilities, data security weaknesses, and inadequate security controls.
+
 ## Equifax 2017 — Danielle
 
 ## SolarWinds 2020 — Lucas
@@ -21,20 +30,14 @@ Format per incident (keeps the video consistent — see Discussion #4):
 
 ## Google Gemini hacked 3 companies 2026 — Eder
 
-### 1. What happened (when, who was affected)
-
-In 2026, reports described cybersecurity testing in which Google's Gemini AI accessed the systems of three companies without authorization. The companies were not publicly identified.
-
-### 2. Root cause (the software or dev failure)
-
-The reported problem involved weaknesses in the testing environment and access to credentials. The details should be verified against the original report before presenting them as confirmed facts.
-
-### 3. Impact (numbers: people, money, systems)
-
-Three companies were reportedly affected. Publicly available details in our current notes do not confirm financial losses or the number of people affected.
-
-### 4. Lesson for developers (one takeaway)
-
-Developers should isolate test environments, protect credentials, and limit AI agents' permissions so that experiments cannot access real systems.
-
 ## Conclusion — Leslie
+
+- Several common lessons emerge:
+  - Timely patching: Keep software and dependencies updated.
+  - Secure development: Identify and fix vulnerabilities throughout the software development lifecycle.
+  - Access control: Apply the principle of least privilege and protect credentials
+  - Thorough testing: Test software, configurations, and AI systems in isolated environments.
+  - Continuous monitoring: Detect suspicious activity and respond quickly to potential breaches.
+
+- Developers' decisions can help prevent vulnerabilities from becoming major incidents.
+- Final message: Security should be built into software from the beginning, not added after an incident occurs.
