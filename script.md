@@ -1,0 +1,2 @@
+ # EY Data Breach 2026 (30 seconds)
+ Ernst & Young (EY), one of the Big Four accounting firms, experienced a data breach between March 28 and April 12, 2026. Unauthorized actors downloaded documents containing sensitive personal and financial information of clients. Although EY has sophisticated security, the hackers exploited EY's trusted third-party support ticket platform to bypass their security measures. This breach shows that companies not only need to be responsible for their own security, but also the security of their trusted partners.
