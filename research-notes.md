@@ -26,6 +26,13 @@ Format per incident (keeps the video consistent — see Discussion #4):
 
 ## SolarWinds 2020 — Lucas
 
+1. **What happened:** In 2020, attackers (attributed by the US government to Russia's SVR) broke into SolarWinds' build system and planted the SUNBURST backdoor inside Orion, its network-monitoring product. The poisoned updates shipped March–June 2020 through the normal release channel, signed with SolarWinds' own certificate.
+2. **Root cause:** Not a bug in the product. The pipeline that *built* the product was compromised, upstream of the code signature, so every "is this safe?" check still passed.
+3. **Impact:** Up to ~18,000 organizations (SolarWinds' SEC filing: "fewer than 18,000") installed the trojanized update; ~100 companies and 9 US federal agencies (incl. Treasury, Commerce, Homeland Security) were actively breached. Undetected ~9 months until FireEye found it in its own network in December 2020.
+4. **Lesson for developers:** You inherit your vendors' build servers, not just their code. Lock down CI like production, give build agents least privilege, and keep an SBOM so "are we affected?" takes minutes, not weeks.
+
+Full notes: `Media/Lucas/edit-notes/solarwinds-research.md`
+
 ## EY data breach 2026 — Chris
 
 ## Google Gemini hacked 3 companies 2026 — Eder

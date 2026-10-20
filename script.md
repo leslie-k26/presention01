@@ -32,6 +32,17 @@ Time to look at four major cyber security incidents and learn from them, startin
 
 ## SolarWinds 2020 — Lucas
 
+In 2020, hackers didn't break SolarWinds' software. They broke the machine that builds it.
+
+SolarWinds makes Orion, a tool thousands of companies use to watch their networks.
+Attackers hid a backdoor in Orion while it was being built, so the update shipped
+with SolarWinds' official digital signature, the stamp that proves it's genuine.
+
+Up to eighteen thousand organizations installed it. Nine US federal agencies were
+breached, and nobody noticed for nine months.
+
+The lesson: trusting your vendor isn't enough. Protect your build pipeline like production.
+
 ## EY data breach 2026 — Chris
 
 ## Google Gemini hacked 3 companies 2026 — Eder
