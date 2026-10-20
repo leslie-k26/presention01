@@ -32,8 +32,6 @@ Time to look at three major cyber security incidents and learn from them, starti
    In 2017, Equifax, one of America's three major credit bureaus, experienced a data breach. Hackers exploited an Apache Struts vulnerability between May and July, despite a security patch being available in March.
   The breach affected approximately 147 million individuals. In July 2019, Equifax agreed to a settlement of at least 575 million dollars. This incident emphasizes the importance of timely software updates, and effective vulnerability management.
 
-In 2017, Equifax, one of America's three major credit bureaus, experienced a data breach. Hackers exploited an Apache Struts vulnerability between May and July, despite a security patch being available in March. The breach affected approximately 147 million individuals. In July 2019, Equifax agreed to a settlement of at least 575 million dollars. This incident emphasizes the importance of timely software updates, and effective vulnerability management.
-
 ## SolarWinds 2020 — Lucas
 
 In 2020, hackers didn't break SolarWinds' software. They broke the machine that builds it.
