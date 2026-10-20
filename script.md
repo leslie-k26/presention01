@@ -18,21 +18,29 @@ committing — 30 seconds is roughly 75–85 words.
 
 ## Intro — Leslie
 
-Hi, I’m Leslie. Here with Danielle, Lucas, Chris and Eder. And you’re here for one reason:
+Hi, I’m Leslie. Here with Danielle, Lucas and Eder. And you’re here for one reason:
 
 Imagine waking up one morning and finding out that a company you trusted has exposed your personal information to hackers. Your name, your address, even your financial details. And the worst part? You did nothing wrong.
 
-2017, there’s Equifax, 2025 Microsoft SharePoint and now 2026 involving EY and Google’s Gemini AI.
+2017, there’s Equifax, 2020 SolorWinds and now 2026 with Google’s Gemini AI making the headlines.
 
 So, what happened? And what can we do to prevent small errors from becoming massive disasters?
 
-Time to look at four major cyber security incidents and learn from them, starting with Equifax.
+Time to look at three major cyber security incidents and learn from them, starting with Equifax.
 
 ## Equifax 2017 — Danielle
 
+In 2017, Equifax, one of America's three major credit bureaus, experienced a data breach. Hackers exploited an Apache Struts vulnerability between May and July, despite a security patch being available in March. The breach affected approximately 147 million individuals. In July 2019, Equifax agreed to a settlement of at least 575 million dollars. This incident emphasizes the importance of timely software updates, and effective vulnerability management.
+
 ## SolarWinds 2020 — Lucas
 
-## EY data breach 2026 — Chris
+In 2020, hackers didn't break SolarWinds' software. They broke the machine that builds it.
+
+SolarWinds makes Orion, a tool thousands of companies use to watch their networks. Attackers hid a backdoor in Orion while it was being built, so the update shipped with SolarWinds' official digital signature, the stamp that proves it's genuine.
+
+Up to eighteen thousand organizations installed it. Nine US federal agencies were breached, and nobody noticed for nine months.
+
+The lesson: trusting your vendor isn't enough. Protect your build pipeline like production.
 
 ## Google Gemini hacked 3 companies 2026 — Eder
 
@@ -41,7 +49,7 @@ In 2026, a cybersecurity report described how Google's Gemini AI accessed the sy
 
 ## Conclusion — Leslie
 
-So, we’ve covered four cybersecurity incidents, from unpatched software to AI systems taking actions on their own.
+So, we’ve covered three cybersecurity incidents, from unpatched software to AI systems taking actions on their own.
 
 Here’s 5 lessons learned:
 

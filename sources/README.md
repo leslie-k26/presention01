@@ -13,4 +13,13 @@ Format: `- [Title](url) — what it backs up, who added it`
 
 Include the licence for anything not ours (CC0, CC-BY, stock licence, etc.).
 
-- No external media added yet.
+- [Background Music] - Music by: Bensound.com/royalty-free-music
+License code: H3BJJL4ZUUBHQTEY
+Artist: : Theatre Of Delays
+- [Cisco logo](https://cdnlogo.com/logo/cisco_32259.html)
+- [Nvidia logo](https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/)
+- [US department of the treasury logo](https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury)
+- [Microsoft logo](<https://pip.com.au/microsoft/microsoft-365-moving-to-cloud-microsoft/)
+- [Intel logo](https://www.logo.wine/logo/Intel)
+
+- [WSJ report on the Gemini incident](<https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2)
