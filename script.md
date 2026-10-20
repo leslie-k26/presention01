@@ -29,42 +29,33 @@ So, what happened? And what can we do to prevent small errors from becoming mass
 Time to look at three major cyber security incidents and learn from them, starting with Equifax.
 
 ## Equifax 2017 — Danielle
+   In 2017, Equifax, one of America's three major credit bureaus, experienced a data breach. Hackers exploited an Apache Struts vulnerability between May and July, despite a security patch being available in March.
+  The breach affected approximately 147 million individuals. In July 2019, Equifax agreed to a settlement of at least 575 million dollars. This incident emphasizes the importance of timely software updates, and effective vulnerability management.
 
 In 2017, Equifax, one of America's three major credit bureaus, experienced a data breach. Hackers exploited an Apache Struts vulnerability between May and July, despite a security patch being available in March. The breach affected approximately 147 million individuals. In July 2019, Equifax agreed to a settlement of at least 575 million dollars. This incident emphasizes the importance of timely software updates, and effective vulnerability management.
 
 ## SolarWinds 2020 — Lucas
 
 In 2020, hackers didn't break SolarWinds' software. They broke the machine that builds it.
-
-SolarWinds makes Orion, a tool thousands of companies use to watch their networks. Attackers hid a backdoor in Orion while it was being built, so the update shipped with SolarWinds' official digital signature, the stamp that proves it's genuine.
-
+SolarWinds makes Orion, a tool thousands of companies use to watch their networks.
+Attackers hid a backdoor in Orion while it was being built, so the update shipped with SolarWinds' official digital signature, the stamp that proves it's genuine.
 Up to eighteen thousand organizations installed it. Nine US federal agencies were breached, and nobody noticed for nine months.
 
 The lesson: trusting your vendor isn't enough. Protect your build pipeline like production.
 
 ## Google Gemini hacked 3 companies 2026 — Eder
 
-In 2026, a cybersecurity report described how Google's Gemini AI accessed the systems of three companies during testing. The incident raised concerns about security controls and how AI agents are tested. When test environments are not properly isolated and credentials are exposed, an AI agent may reach systems it should not access. The key lesson for developers is to isolate testing environments, protect passwords and credentials, and give AI agents only the permissions they need. AI tools must be tested carefully before they are allowed to interact with real systems.
+In 2026, a cybersecurity report described how Google's Gemini AI accessed the systems of three companies during testing. 
+The incident raised concerns about security controls and how AI agents are tested. 
+When test environments are not properly isolated and credentials are exposed, an AI agent may reach systems it should not access. 
+The key lesson for developers is to isolate testing environments, protect passwords and credentials, and give AI agents only the permissions they need. 
+AI tools must be tested carefully before they are allowed to interact with real systems.
 
 
 ## Conclusion — Leslie
 
 So, we’ve covered three cybersecurity incidents, from unpatched software to AI systems taking actions on their own.
 
-Here’s 5 lessons learned:
+Here’s 5 lessons learned. Security isn’t an afterthought. Build it in early, test it continuously, and maintain it throughout the software lifecycle.
 
-1: Keep software updated.
-
-2: Protect your credentials.
-
-3: Limit permissions.
-
-4: Test for failure.
-
-5: Monitor and prepare.
-
-Security isn’t an afterthought. Build it in early, test it continuously, and maintain it throughout the software lifecycle.
-
-So, next time you think, “It’s probably fine,” remember the 147 million people affected by the Equifax breach.
-
-Thanks for watching!
+Remember the 147 million people affected by the Equifax breach. Thanks for watching!
