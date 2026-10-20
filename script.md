@@ -29,6 +29,8 @@ So, what happened? And what can we do to prevent small errors from becoming mass
 Time to look at four major cyber security incidents and learn from them, starting with Equifax.
 
 ## Equifax 2017 — Danielle
+   In 2017, Equifax, one of America's three major credit bureaus, experienced a data breach. Hackers exploited an Apache Struts vulnerability between May and July, despite a security patch being available in March.
+  The breach affected approximately 147 million individuals. In July 2019, Equifax agreed to a settlement of at least 575 million dollars. This incident emphasizes the importance of timely software updates, and effective vulnerability management.
 
 ## SolarWinds 2020 — Lucas
 
