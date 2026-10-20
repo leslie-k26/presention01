@@ -50,7 +50,10 @@ breached you can answer "are we affected" in minutes instead of weeks.
 
 - CISA Emergency Directive 21-01 — https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise
 - Mandiant/FireEye SUNBURST writeup — https://cloud.google.com/blog/topics/threat-intelligence/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor/
-- GAO summary of the incident — https://www.gao.gov/products/gao-22-104746
+- SolarWinds Form 8-K ("fewer than 18,000") — https://www.sec.gov/Archives/edgar/data/1739942/000162828020017451/swi-20201214.htm
+- White House briefing, 9 agencies / ~100 companies (CNN) — https://edition.cnn.com/2021/02/17/politics/solarwinds-hack-investigation
+
+Verified 2026-10-19: 18,000 is an upper bound on installs (SEC 8-K), 9 agencies + ~100 companies is from the Feb 2021 White House briefing. GAO-22-104746 dropped, it does not state either number.
 
 ## Note for the team
 
