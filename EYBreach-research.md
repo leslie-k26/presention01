@@ -1,3 +1,4 @@
+# EY Data Breach 2026
 1. What happened?
     Ernst & Young (EY) experienced a data breach between March 28 and April 12, 2026 where unauthorized actors downloaded documents containing sensitive personal and financial information of clients. In July, a few months after the incident, the company warned clients that their sensitive financial and personal information was compromised. EY is one of the world's largest accounting firms, handling tax operations for many companies. 
 2. Who was impacted?
