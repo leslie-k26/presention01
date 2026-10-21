@@ -63,4 +63,4 @@ Here’s 5 lessons learned:
 
 Security isn’t an afterthought. Build it in early, test it continuously, and maintain it throughout the software lifecycle.
 
-Remember the 147 million people affected by the Equifax breach. Thanks for watching!
+Thanks for watching!
