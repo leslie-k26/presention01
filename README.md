@@ -5,7 +5,7 @@
 Leslie Nguyen [156815177]  
 Danielle Lampitoc [Student ID]  
 Eder Vasquez Alcantara [Student ID]  
-Lucas Krawczak [Student ID]  
+Lucas Krawczak 114398241  
 
 ## Summary
 
