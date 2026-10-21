@@ -17,7 +17,7 @@ We finish with five lessons for building security into every stage of the softwa
 
 ## YouTube link
 
-[How 3 Security Failures Exposed Millions](https://youtu.be/LK62REQDT1g)
+[How 3 Security Failures Exposed Millions](https://youtu.be/RnLHF2fJ2Tc)
 
 ## Contributions
 
