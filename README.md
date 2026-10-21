@@ -2,7 +2,10 @@
 
 ## Authors
 
-By Leslie Nguyen, Danielle Lampitoc, Eder Vasquez Alcantara, Lucas Krawczak
+Leslie Nguyen [156815177]
+Danielle Lampitoc
+Eder Vasquez Alcantara
+Lucas Krawczak
 
 ## Summary
 
@@ -14,7 +17,7 @@ We finish with five lessons for building security into every stage of the softwa
 
 ## YouTube link
 
-[How 3 Security Failures Exposed Millions](https://youtu.be/UlCZpZEEb8U)
+[How 3 Security Failures Exposed Millions](https://youtu.be/LK62REQDT1g)
 
 ## Contributions
 
