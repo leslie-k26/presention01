@@ -2,9 +2,9 @@
 
 ## Authors
 
-Leslie Nguyen [156815177]  
+Leslie Nguyen 156815177   
 Danielle Lampitoc 143948230  
-Eder Vasquez Alcantara [Student ID]  
+Eder Vasquez Alcantara 113707269  
 Lucas Krawczak 114398241  
 
 ## Summary
