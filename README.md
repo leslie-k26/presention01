@@ -3,7 +3,7 @@
 ## Authors
 
 Leslie Nguyen [156815177]  
-Danielle Lampitoc [Student ID]  
+Danielle Lampitoc 143948230  
 Eder Vasquez Alcantara [Student ID]  
 Lucas Krawczak 114398241  
 
