@@ -54,6 +54,13 @@ AI tools must be tested carefully before they are allowed to interact with real 
 
 So, we’ve covered three cybersecurity incidents, from unpatched software to AI systems taking actions on their own.
 
-Here’s 5 lessons learned. Security isn’t an afterthought. Build it in early, test it continuously, and maintain it throughout the software lifecycle.
+Here’s 5 lessons learned:
+1: Keep software updated.
+2: Protect your credentials.
+3: Limit permissions.
+4: Test for failure.
+5: Monitor and prepare.
+
+Security isn’t an afterthought. Build it in early, test it continuously, and maintain it throughout the software lifecycle.
 
 Remember the 147 million people affected by the Equifax breach. Thanks for watching!
